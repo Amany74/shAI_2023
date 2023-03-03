@@ -4,7 +4,8 @@
 The rep contains my projects and notebooks that I will make as a part of shAI club Python and Machine learning trainning
 
 
-![Logo]()
+![Uploading hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg…]()
+
 
 
 ## Lessons 
