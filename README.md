@@ -11,7 +11,7 @@ The rep contains my projects and notebooks that I will make as a part of shAI cl
 ## Lessons 
 
 ### [Lesson 1 : Numpy ](https://www.github.com/Amany74)
-## Tech Stack
+## Tech 
 
 **Python , Pandas , Numpy** 
 
