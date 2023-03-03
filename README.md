@@ -10,7 +10,13 @@ The rep contains my projects and notebooks that I will make as a part of shAI cl
 
 ## Lessons 
 
-### [Lesson 1 : Numpy ](https://www.github.com/Amany74)
+### [Lesson 1 : Numpy ](https://github.com/Amany74/shAI_2023/tree/main/Numpy-01)
+
+### [Lesson 2 : Pandas  ](https://github.com/Amany74/shAI_2023/tree/main/pandas-02)
+
+### [Lesson 3 : EDA on NYC Death's causes  ](https://www.github.com/Amany74)
+
+
 ## Tech 
 
 **Python , Pandas , Numpy** 
